@@ -1,2 +1,9 @@
 markdown: kramdown
-exclude: [vendor]
+exclude:
+  - create-thumbnails.bat
+  - README.md
+  - vendor
+
+title: 'Libor Kramoliš'
+# encode: http://wbwip.com/wbw/emailencoder.html
+email: '&#108;&#105;&#098;&#111;&#114;&#064;&#107;&#114;&#097;&#109;&#111;&#108;&#105;&#115;&#046;&#099;&#122;'
