@@ -1,4 +1,14 @@
 - company:
+  name: AppDynamics (Cisco Systems)
+  projects:
+    - name: AppDynamics Platform
+      time: 2017
+#      details: "TBD"
+#      responsibilities:
+#        - TBD
+      technologies: Glassfish, MySql, Gradle
+
+- company:
   name: Oracle
   projects:
     - name: Java for Cloud - Configuration API
