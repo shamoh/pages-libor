@@ -6,7 +6,7 @@ bio:            'My name is Libor, Libor Kramoliš.'
 description:    "Everything there is to know about the shrimpin' business."
 picture:        '/assets/img/shamoh.jpg'
 locale:         en_US
-url:            http://libor.kramolis.cz
+url:            https://libor.kramolis.cz
 summary: '<p>I am a software architect, designer and senior application developer.
 My primary programming language is Java, already since 1997.
 I have experience with design and development of Java EE applications since 2003 including development of SOAP / REST WebServices.
