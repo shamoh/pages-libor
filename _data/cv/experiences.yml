@@ -1,14 +1,20 @@
 - experience:
+  role: Java Developer / Architect
+  time: 2018
+  company: Libor Freelancer Kramoliš
+  details: "Java and Kotlin Developer, IT Architect, Technical Leader"
+
+- experience:
   role: Technical Leader - Engineering
-  time: 2017
+  time: 2017 - 2018
   company: AppDynamics (Cisco Systems), Prague
-#  details: "TBD"
+  details: "Refactoring and performance improvements of AppDynamics Controller Java EE application."
 
 - experience:
   role: Principal Software Engineer
   time: 2013 - 2017
   company: Oracle, Prague
-  details: "Design and development of cloud native Java libraries.
+  details: "Design and development of cloud-native Java libraries.
   Design and development of JAX-RS RI + WebLogic integration."
 
 - experience:
@@ -16,8 +22,8 @@
   time: 2012 - 2013
   company: Komerční banka, Prague
   details: "Team leader of KB Java EE framework, services and applications development
-Analysis, design and development of Java EE framework.
-Design or review architecture of services/applications developed by the team.
+Analysis, design, and development of Java EE framework.
+Design or review the architecture of services/applications developed by the team.
 Application gestor of IT tools: Atlassian JIRA + Confluence, Subversion/GIT, Apache Archiva/Sonatype Nexus, Jenkins CI, JForum."
 
 - experience:
@@ -25,7 +31,7 @@ Application gestor of IT tools: Atlassian JIRA + Confluence, Subversion/GIT, Apa
   time: 2008 - 2011
   company: Komerční banka, Prague
   details: "Team leader of corporate J2EE framework development.
-Analysis, design and development of J2EE framework.
+Analysis, design, and development of J2EE framework.
 Design and development of J2EE Web Services."
 
 - experience:
@@ -33,7 +39,7 @@ Design and development of J2EE Web Services."
   time: 2006 - 2008
   company: Komerční banka, Prague
   details: "Design and development of J2EE SOA applications.
-Design and development of corporate J2EE framework."
+Design and development of a corporate J2EE framework."
 
 - experience:
   role: Senior Java developer & designer

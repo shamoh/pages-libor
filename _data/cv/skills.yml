@@ -4,3 +4,6 @@
 - skill:
   name: Java
   level: since 1997
+- skill:
+  name: Kotlin
+  level: since 2018
