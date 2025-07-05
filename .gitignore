@@ -3,3 +3,4 @@ Gemfile.lock
 *.xcf
 __templates__
 .sass-cache/
+.idea/
